@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/",
-      "destination": "/New Resume (2) _ Resume Editor.html"
-    }
-  ]
-}
